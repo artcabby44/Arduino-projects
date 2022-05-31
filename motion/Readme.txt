@@ -1,0 +1,5 @@
+PIN SETUP
+
+VCC to VCC
+GND to GND
+OUT to PIN2
